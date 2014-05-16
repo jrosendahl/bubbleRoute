@@ -1,0 +1,22 @@
+{
+  "name": "bubbleRoute",
+  "version": "0.0.0",
+  "description": "A simple bubble router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrosendahl/bubbleRoute.git"
+  },
+  "keywords": [
+    "router"
+  ],
+  "author": "John Rosendahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrosendahl/bubbleRoute/issues"
+  },
+  "homepage": "https://github.com/jrosendahl/bubbleRoute"
+}
